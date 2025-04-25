@@ -140,7 +140,7 @@ export const projectsData = [
     `,
     description2: `Des revêtements muraux en bouleau habillent la chambre et se prolongent dans les pièces intimes telles que le dressing et la salle de bain. Une attention particulière a été portée au traitement de la lumière, aux matériaux et aux détails de finition.`,
     tech: {
-      type: "rénovation",
+      type: "rénovation avec Chanelle Fillastre architecte ",
       loc: "Paris 5ème",
       sup: "90 m²",
       mo: "privée",
@@ -360,7 +360,7 @@ export const projectsData = [
     slug: "maison-de-ville",
     imgSrc: project4,
     title: "MAISON DE VILLE",
-    location: "Ile-Et-Vilaine",
+    location: "Nord",
     grade: "Extension",
     description1: `Cette maison s'inscrit dans l'alignement de constructions similaires, formant un front bâti homogène. Son identité repose avant tout sur cette unité d’ensemble, lui conférant un caractère générique. L’ambition globale du projet consiste à explorer et valoriser les possibilités qu’offre une telle configuration urbaine. La présente étude propose une extension et une surélévation qui donneront un caractère singulier à une typologie de maison standardisée.`,
     description2: `L’idée est de s’affranchir des contraintes de la parcelle (orientation N/S, configuration en lanière, maison au centre...) et, à l’inverse, d’en exploiter le potentiel. Il s’agit de retrouver de nouvelles orientations où l’intérieur et l’extérieur se répondent grâce à des volumes forts.`,
