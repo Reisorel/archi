@@ -140,11 +140,11 @@ export const projectsData = [
     `,
     description2: `Des revêtements muraux en bouleau habillent la chambre et se prolongent dans les pièces intimes telles que le dressing et la salle de bain. Une attention particulière a été portée au traitement de la lumière, aux matériaux et aux détails de finition.`,
     tech: {
-      type: "rénovation avec Chanelle Fillastre architecte ",
+      type: "rénovation",
       loc: "Paris 5ème",
       sup: "90 m²",
       mo: "privée",
-      inter: "mission complète",
+      inter: "mission complète avec Chanelle Fillastre architecte",
       avance: "livré août 2024",
     },
     tags: [

@@ -79,7 +79,7 @@ export const newsData = [
     slug: "maison-de-ville",
     imgSrc: new4,
     title: "MAISON DE VILLE",
-    location: "ROMILIE",
+    location: "LILLE",
     grade: "Rénovation",
     description: "Etude de faisabilité",
   },
